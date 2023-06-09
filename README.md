@@ -5,7 +5,7 @@
 
 Simple game to play rock, paper, scissors vs computer !
 
-Deployed website:
+Deployed website: https://tonylehuynh-rockpaperscissorsjs.netlify.app/
 
 
 ### **Code explanation**

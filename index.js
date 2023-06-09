@@ -7,3 +7,7 @@ let computer;
 let result;
 
 
+choiceBtns.forEach(button => button.addEventListener("click"), () => {
+	
+	player = button.textContent;
+})
